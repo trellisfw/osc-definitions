@@ -8,7 +8,7 @@ The global fishing industry would like to eliminate over-fishing by requiring fi
 
 #### OSC JSON Template 
 
-```json
+```javascript
 {
   "oscid": {
     "codebase": "sustainablefishing-v1.0.0",
