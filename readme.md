@@ -44,7 +44,7 @@ The global fishing industry would like to eliminate over-fishing by requiring fi
 }
 ```
 
-#### OSC JSON Template for Trellis++ Broker
+#### OSC JSON Template for Trellis++ Broker (tl3)
 ```javascript
 {
   "id": "316c9712-5e51-4267-8891-859b6a7cc3b7",
@@ -73,7 +73,7 @@ The global fishing industry would like to eliminate over-fishing by requiring fi
     "privateData": "all",
     "token": "servio"
   },
-  "generatedPACs": {
+  "generated_pacs": {
     "pacrandomid1": {},
     "pacrandomid2": {}
   },
