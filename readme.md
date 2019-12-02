@@ -44,3 +44,42 @@ The global fishing industry would like to eliminate over-fishing by requiring fi
 }
 ```
 
+#### OSC JSON Template for Trellis++ Broker
+```javascript
+{
+  "id": "316c9712-5e51-4267-8891-859b6a7cc3b7",
+  "oscid": {
+    "codebase": "massbalance-v1.0.0",
+    "pac": "massbalance-v1.0.0",
+    "definition": "https://github.com/trellisfw/osc-definitions"
+  },
+  "label": "MB",
+  "title": "Organic Mass Balance",
+  "osc_hash": {
+    "value": "e866b9393619261cd329cc1198d8e188c62ada321b01c8492ab7513f86510d7a",
+    "alg": "SHA-256"
+  },
+  "date_init": "09.17.2019",
+  "timestamp": "2019-08-14T02:38:32.921Z",
+  "trustLevel": "tl3",
+   "organization": {
+    "name": "Bob's Mass Balance"
+  },
+  "broker_signals":{
+    "restart": false,
+    "init_ra": false,
+    "turnoff": false,
+    "generate_pac": true,
+    "privateData": "all",
+    "token": "servio"
+  },
+  "generatedPACs": {
+    "pacrandomid1": {},
+    "pacrandomid2": {}
+  },
+  "blockchain_config": {
+    "host": "string"
+  }
+}
+```
+
