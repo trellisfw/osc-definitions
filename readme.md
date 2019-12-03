@@ -102,7 +102,7 @@ The global fishing industry would like to eliminate over-fishing by requiring fi
       "title": "Organic Mass Balance",
       "date_init": "09.17.2019",
       "timestamp": "2019-08-14T02:38:32.921Z",
-      "trustLevel": "tl3",
+      "trust_level": "tl3",
        "organization": {
         "name": "Bob's Mass Balance"
       },
@@ -111,7 +111,7 @@ The global fishing industry would like to eliminate over-fishing by requiring fi
         "init_ra": false,
         "turnoff": false,
         "generate_pac": true,
-        "privateData": "all",
+        "private_data": "all",
         "token": "servio"
       },
       "generated_pacs": {
@@ -137,7 +137,7 @@ The global fishing industry would like to eliminate over-fishing by requiring fi
       "title": "Sustainability Reporting",
       "date_init": "09.17.2019",
       "timestamp": "2019-08-14T02:38:32.921Z",
-      "trustLevel": "tl1",
+      "trust_level": "tl1",
        "organization": {
         "name": "Bob's Sustainability Reporting"
       },
@@ -146,7 +146,7 @@ The global fishing industry would like to eliminate over-fishing by requiring fi
         "init_ra": false,
         "turnoff": false,
         "generate_pac": true,
-        "privateData": "all",
+        "private_data": "all",
         "token": "servio"
       },
       "generated_pacs": {
@@ -170,7 +170,7 @@ The global fishing industry would like to eliminate over-fishing by requiring fi
       "title": "Sustainable Fishing",
       "date_init": "09.17.2019",
       "timestamp": "2019-08-14T02:38:32.921Z",
-      "trustLevel": "tl1",
+      "trust_level": "tl1",
        "organization": {
         "name": "Bob's Sustainable Fishing"
       },
@@ -179,7 +179,7 @@ The global fishing industry would like to eliminate over-fishing by requiring fi
         "init_ra": false,
         "turnoff": false,
         "generate_pac": true,
-        "privateData": "all",
+        "private_data": "all",
         "token": "servio"
       },
       "generated_pacs": {
@@ -203,7 +203,7 @@ The global fishing industry would like to eliminate over-fishing by requiring fi
       "title": "Planting Date Reporting",
       "date_init": "09.17.2019",
       "timestamp": "2019-08-14T02:38:32.921Z",
-      "trustLevel": "tl1",
+      "trust_level": "tl1",
        "organization": {
         "name": "Bob's Planting Date Reporting"
       },
@@ -212,7 +212,7 @@ The global fishing industry would like to eliminate over-fishing by requiring fi
         "init_ra": false,
         "turnoff": false,
         "generate_pac": true,
-        "privateData": "all",
+        "private_data": "all",
         "token": "servio"
       },
       "generated_pacs": {
